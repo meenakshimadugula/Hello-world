@@ -1,0 +1,18 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color:violet;
+}
+
+#p01 {
+    color: blue;
+}
+p.error {
+    color: red;
+}
